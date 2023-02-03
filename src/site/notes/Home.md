@@ -4,7 +4,7 @@
 
 [[Visualization\|Go to Visualization]]
 
-![img](https://github.com/MandyHPNguyen/mGarage4images/raw/95e9a399e11577cdbb634e13d2ca862c642d7479/mandy-logo/MandyHPNguyen_black_gif_banner.gif)
+![Banner Introduction|600](https://github.com/MandyHPNguyen/mGarage4images/raw/95e9a399e11577cdbb634e13d2ca862c642d7479/mandy-logo/MandyHPNguyen_black_gif_banner.gif)
 
 > Data Scientist &  Hustler
 
