@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-[[Visualization\|Go to Visualization]]
+[[data-visualization/galleries\|Go to Visualization]]
 
 ![Banner Introduction](https://github.com/MandyHPNguyen/mGarage4images/raw/95e9a399e11577cdbb634e13d2ca862c642d7479/mandy-logo/MandyHPNguyen_black_gif_banner.gif)
 
