@@ -7,7 +7,12 @@
 # Mandy HP Nguyen
 
 ## Education
-
+August 2020 - March 2022
+### Master of Science in Data Analytics
+#### Webster University 
+August 2013 - March 2018
+### Bachelor in Business Economics
+#### Foreign Trade University
 
 ## Experiences
 
