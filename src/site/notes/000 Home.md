@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/000-home/","title":"About Me","tags":["gardenEntry"],"noteIcon":""}
+---
+
+[[110 Visualization/020DSDV000 Visualizations\|Go to Visualization]]
+
+![Banner Introduction](https://github.com/MandyHPNguyen/mGarage4images/raw/95e9a399e11577cdbb634e13d2ca862c642d7479/mandy-logo/MandyHPNguyen_black_gif_banner.gif)
+
+> Data Scientist &  Hustler
+
+>[!note] HELLO WORLD
+
