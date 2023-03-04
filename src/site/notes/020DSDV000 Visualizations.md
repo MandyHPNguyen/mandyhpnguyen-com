@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Data Visualization","permalink":"/Data Visualization/","title":"IMDb Visualization","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"/visualization/IDMB","permalink":"/visualization/IDMB/","title":"IMDb Visualization","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"],"noteIcon":""}
 ---
 
 [[00000 Home\|Go back Home]]
