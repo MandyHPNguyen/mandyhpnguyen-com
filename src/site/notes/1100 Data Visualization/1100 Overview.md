@@ -5,3 +5,5 @@
 << [[0000 Home/0000 Overview\|🏡 Home Page]] >>
 
 Hi welcome to my visualization galeery
+
+check king ji
