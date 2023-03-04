@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-visualization/gallery/","title":"Power BI Visual","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"]}
+{"dg-publish":true,"dg-permalink":"data-visualization/","permalink":"/data-visualization/","title":"Power BI Visual","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"],"noteIcon":""}
 ---
 
 [[Home\|Go back Home]]
