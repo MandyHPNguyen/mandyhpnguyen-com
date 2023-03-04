@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"data-visualization/020DSDV000 Visualizations","permalink":"/data-visualization/020DSDV000 Visualizations/","title":"Power BI Visual","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Data Visualization","permalink":"/Data Visualization/","title":"IMDb Visualization","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"],"noteIcon":""}
 ---
 
 [[00000 Home\|Go back Home]]
