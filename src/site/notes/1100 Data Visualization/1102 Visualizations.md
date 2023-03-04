@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/visualization/webster","permalink":"/visualization/webster/","title":"WEbster Visualization","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"visualization/webster","permalink":"/visualization/webster/","title":"WEbster Visualization","tags":["data-science, data-analysis, data-analytics, data-processing, data-visualization"],"noteIcon":""}
 ---
 
 [[0000 Home/0000 Overview\|Go back Home]]
