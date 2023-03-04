@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/visualization/IDMB","permalink":"/visualization/IDMB/","title":"Overview","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"home/overview","permalink":"/home/overview/","title":"Overview","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 [[1100 Data Visualization/1101 Visualizations\|Go to Visualization]]
